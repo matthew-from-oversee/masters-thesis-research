@@ -3,6 +3,10 @@
     {
       "manuscript_id": "817e8ebd-594b-4d3b-8c9d-a8510007a31f",
       "lab_path": "credit-card-fraud/25k-dataset/lab.html"
-    }
+    },
+    {
+      "manuscript_id": "66ae7bb9-9860-48e6-b457-3a07cc67b61c",
+      "lab_path": "synthetic-data/roc-vs-pr-curve/lab.html"
+    },
   ]
 }
